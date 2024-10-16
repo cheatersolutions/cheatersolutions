@@ -10,7 +10,7 @@ I work with backend and frontend
 ### Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/cheatersolutions">
     <img src="https://skillicons.dev/icons?i=java,js,ts,rust,go,py,lua,vuejs,maven,gradle,idea,debian,mongodb,mysql,linux" />
   </a>
 </p>
