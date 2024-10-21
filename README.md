@@ -5,7 +5,7 @@ I work with backend and frontend
 
 * 🌍  I'm based in Germany
 * 🖥️  See my projects at [Repositories](https://github.com/cheatersolutions?tab=repositories)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Go
 
 ### Skills
 
